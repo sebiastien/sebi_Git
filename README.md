@@ -1,1 +1,3 @@
-# sebi_Git
+readme.md
+*.txt
+nbproject/
